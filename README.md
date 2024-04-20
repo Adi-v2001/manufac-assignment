@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Please use 'yarn' to install all dependencies after downloading the code.
 
+## Screen shot of both tables
+
+![Alt text](/public/Screenshot.png?raw=true "Optional Title")
+
 ## Available Scripts
 
 In the project directory, you can run:
